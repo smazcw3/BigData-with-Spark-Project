@@ -10,9 +10,7 @@ The Lab5 folder comprises of several subfolders as described as below:
 1. code             :: This contains the source code required for this lab.
 2. input            :: This contains the input required for running the code.
 3. sample.output    :: This contains the sample output gathered by running the code.
-4. notebook         :: This contains the notebook required to understand Apache Spark with Titanic data analysis.
-5. lab5.pdf         :: This contains the instructions for Lab5.
-6. R.code.for.plots :: This contains the plots for generating the plot describing the scalability for bigrams and trigrams with respect to multiple documents.
+4. R.code.for.plots :: This contains the plots for generating the plot describing the scalability for bigrams and trigrams with respect to multiple documents.
 
 
 ------------
