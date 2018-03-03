@@ -1,6 +1,6 @@
 # BigData with Spark Lab Project
 
-This Lab project was implemented to understand the programming of the dataflow for Big Data analytics using apache spark. It was part of the coursework for ``Data intensive Computing" coursework in Spring 2017.
+This Lab project was implemented to understand the programming of the dataflow for Big Data analytics using apache spark. It was part of the coursework for "Data intensive Computing" coursework in Spring 2017.
 
 ----------------------
 INSIDE THIS REPOSITORY
