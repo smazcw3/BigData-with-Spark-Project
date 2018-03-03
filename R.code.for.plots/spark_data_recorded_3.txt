@@ -1,0 +1,4 @@
+Documents	Time(in secs)
+1	9.51
+3	24.38
+5	2226.54
